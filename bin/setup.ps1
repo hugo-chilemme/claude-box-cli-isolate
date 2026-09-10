@@ -1,5 +1,4 @@
 #Requires -Version 5.0
-# setup.ps1 - install claude-box (Docker) on Windows
 $ErrorActionPreference = "Stop"
 
 Write-Host "=== claude-box setup (Windows) ==="
