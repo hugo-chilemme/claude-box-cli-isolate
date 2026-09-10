@@ -1,5 +1,7 @@
 # claude-box
 
+![claude-box preview](./readme_preview.gif)
+
 Lance Claude Code dans un conteneur Docker en ne montant que les fichiers et
 dossiers que tu choisis. Chaque élément est monté dans `/workspace` en
 conservant son chemin relatif et synchronisé en direct avec ta machine. Claude

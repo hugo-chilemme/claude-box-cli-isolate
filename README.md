@@ -1,5 +1,7 @@
 # claude-box
 
+![claude-box preview](./docs/readme_preview.gif)
+
 Run Claude Code inside a Docker container, mounting only the files and folders
 you choose. Each item is mounted into `/workspace` with its relative path
 preserved and live-synced to your machine. Claude only ever sees what you mount.
