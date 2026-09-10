@@ -53,21 +53,21 @@ hosts; on Apple Silicon it is generally not supported.
 
 ## Install — Linux / macOS
 
-Run `./setup.sh` from the same directory as this README.
+Run `./bin/setup.sh` from the same directory as this README.
 
 ```bash
-chmod +x setup.sh
-./setup.sh
+chmod +x ./bin/setup.sh
+./bin/setup.sh
 ```
 
 ---
 
 ## Install — Windows
 
-Run `.\setup.ps1` from the same directory as this README, in PowerShell.
+Run `.\bin\setup.ps1` from the same directory as this README, in PowerShell.
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\setup.ps1
+powershell -ExecutionPolicy Bypass -File .\bin\setup.ps1
 ```
 
 ---
